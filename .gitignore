@@ -10,3 +10,5 @@
 /build
 /run.sh
 /*.root
+/yemi_profile/.lh/
+/yemi_profile/.vscode/
