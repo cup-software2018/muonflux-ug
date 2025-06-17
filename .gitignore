@@ -6,3 +6,7 @@
 /music-double-diff-rock.dat
 /music-eloss-sr.dat
 /yemi_amore_tpd.dat
+/data/
+/build
+/run.sh
+/*.root
